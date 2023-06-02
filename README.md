@@ -1,6 +1,7 @@
-# Astronomy Data Analysis Course 🌌📊
-
-Welcome to the Astronomy Data Analysis Course! This repo is designed to provide an introduction to the basics of working with astronomical data, including image data, Integral Field Unit (IFU) data, tabular data, and neural networks. Each week will cover a different topic, and by the end of the repo, we will have a solid foundation in astronomy data analysis.
+<div align="center">
+  <h1>Astronomy Data Analysis Course 🌌📊</h1>
+  <p>Welcome to the Data Analysis Course! This repo is designed to provide an introduction to the basics of working with astronomical data, including image data, Integral Field Unit (IFU) data, tabular data, and neural networks. Each week will cover a different topic, and by the end of the repo, we will have a solid foundation in astronomy data analysis.</p>
+</div>
 
 ## Week 1: Image Data 📷
 
